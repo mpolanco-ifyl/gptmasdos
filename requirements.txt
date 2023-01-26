@@ -1,2 +1,2 @@
 streamlit
-gensim
+gensim==3.8.3
